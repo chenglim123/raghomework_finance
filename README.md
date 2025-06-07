@@ -2,7 +2,7 @@
 1. 安装python依赖
     根据自己的操作系统环境，选择合适的requirements文件进行安装
     ```python
-    pip install -r requirements_xxx.txt>"
+    pip install -r requirements_xxx.txt
     ```
 
 2. cd进入backend目录，执行以下指令开启后端服务
